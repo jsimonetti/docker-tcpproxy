@@ -1,4 +1,4 @@
-FROM alpine:3.10.1
+FROM alpine:latest
 
 RUN apk add --update bash socat
 
